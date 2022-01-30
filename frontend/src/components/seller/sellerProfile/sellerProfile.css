@@ -1,0 +1,48 @@
+.spacing{
+    margin: 10px;
+}
+
+.spacing1{
+    margin: 4px;
+}
+
+.a-section .a-spacing-none .desktop .cover-photo{
+    background-size: contain;
+}
+
+.photo{
+    height: 15pc;
+}
+
+.cover-photo1{
+    height:130%;
+    margin-top: 0px;
+    margin-bottom: auto;
+    width: 100%;
+}
+
+.cameraicon{
+   margin-left: -135px;
+   margin-right: 100px;
+}
+
+.text-muted{
+    margin-left: 20px;    
+}
+
+.btn-warning {
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+.btn-dark{
+    margin-bottom: 15px;
+}
+
+.savedadd{
+    margin-bottom: 15px;
+}
+
+.insight-spacing{
+    margin: 10px;
+}
