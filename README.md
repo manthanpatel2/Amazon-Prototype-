@@ -138,10 +138,3 @@ To deploy this on live system go to aws.amazon.com and follow the steps to insta
 * [Redis](https://redis.io/documentation) - Used for SQL Caching
 * [MySQL](https://dev.mysql.com/doc/) - SQL Database used
 
-## Authors
-
-* **Aayush Sukhadia**
-* **Aditya Patel**
-* **Deepen Patel**
-* **Deep Khajanchi**
-* **Harshil Shah**
